@@ -1,0 +1,13 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+ Title : 2020 Community Survey Custom CSS for Wufoo
+ Author : Melanie Sumner
+ URL : http://
+
+ Last Updated : February 3, 2020
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+.wufoo li {
+  width: 90%;
+}
