@@ -7,8 +7,8 @@
 
 - - - - - - - - - - - - - - - - - - - - - */
 
-.wufoo li{
-  width: 64% !important;
+.redesigned-theme-2018 > .wufoo li, .wufoo li {
+  width: 90% !important;
 }
 
 /* This is the stuff that was already there */
