@@ -7,8 +7,8 @@
 
 - - - - - - - - - - - - - - - - - - - - - */
 
-.wufoo li {
-  width: 90%;
+.wufoo li{
+  width: 64% !important;
 }
 
 /* This is the stuff that was already there */
